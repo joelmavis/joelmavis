@@ -1,16 +1,21 @@
-## Hi there 👋
+# 咖喱辣椒Joe
 
-<!--
-**joelmavis/joelmavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+European Studies background. Working at the intersection of AI product, GTM, and technology governance.
 
-Here are some ideas to get you started:
+## Research Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Governance
+- Technological Sovereignty
+- European Tech Politics
+- US–China–EU Technology Relations
+- AI & Global Power
+
+I am building the open [AI Governance Research Toolkit](https://github.com/joelmavis/ai-governance-research-toolkit): reusable research methods, knowledge tools, and Agent Skills for studying these questions.
+
+## Current Research Question
+
+> Can technological sovereignty exist without technological dominance?
+
+## Current Project
+
+[AI Governance Research Toolkit](https://github.com/joelmavis/ai-governance-research-toolkit)

@@ -27,6 +27,6 @@
 
 - 公众号：待补
 - 视频号：待补
-- X / Twitter：@joelmavis_
-- LinkedIn：待补
+- X / Twitter：[joelmavis_](https://x.com/joelmavis_)
+- LinkedIn：[Joe](https://www.linkedin.com/in/han-zhu-3ab5bb138/?isSelfProfile=true)
 - 小红书：待补

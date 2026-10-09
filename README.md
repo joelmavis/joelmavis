@@ -27,6 +27,6 @@
 
 - 公众号：待补
 - 视频号：待补
-- X / Twitter：https://x.com/joelmavis_
+- X / Twitter：@joelmavis_
 - LinkedIn：待补
 - 小红书：待补

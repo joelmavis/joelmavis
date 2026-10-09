@@ -10,17 +10,18 @@
 - 中美欧技术关系
 - AI 与全球权力
 
-## 公开研究基础设施
+## Meridian
 
-我正在建设开放的 [AI Governance Research Toolkit](https://github.com/joelmavis/ai-governance-research-toolkit)，沉淀可复用的研究方法、知识工具与智能体技能。
+我正在开发 [Meridian](https://github.com/joelmavis/meridian)：一个面向欧洲科技与 AI 研究者的开源情报雷达。
 
-其中包括材料学习、情报观察、专题研究、公共表达与事实核查等工作流；工具以中文说明，面向任何需要进行证据导向研究与表达的使用者。
+它以欧洲 AI 治理及其对外影响为核心，从欧盟官方文件、学术研究、专业报告和权威媒体中筛选真正值得继续研究的变化。Meridian 可以作为独立 Agent Skill 安装，在 Codex、Claude Code 等 AI Agent 中调用。
 
-## 在这里可以找到
+## Meridian 关注
 
-- AI 治理、技术主权与欧洲科技政治的研究框架
-- 研究、阅读、政策分析与事实核查的可复用工具
-- 将已审核研究转化为公共表达的工作流与模板
+- EU AI Act、European AI Office 与欧盟 AI 治理机构
+- Brussels Effect、规范扩散、本土化与全球回应
+- 欧洲 AI 主权、算力、云与产业能力
+- 企业及其他国家如何回应欧盟 AI 规则
 
 ## 个人链接
 
